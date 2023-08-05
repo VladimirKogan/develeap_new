@@ -4,7 +4,7 @@ pipeline {
         LOCAL_IMAGE_NAME = "develeap"
         AWS_REGION = "eu-central-1"
         ECR_REPO_NAME  = "538535932316.dkr.ecr.eu-central-1.amazonaws.com/develeap"
-        VERSION = "1.0.2"
+        VERSION = "1.0.3"
     }
     stages {
 
